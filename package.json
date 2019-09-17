@@ -1,10 +1,10 @@
 {
-  "name": "{{MODULE_NAME}}",
+  "name": "mmm-wordoftheday",
   "version": "1.0.0",
-  "description": "{{DESCRIPTION}}",
-  "main": "{{MODULE_NAME}}.js",
-  "author": "{{AUTHOR_NAME}}",
-  "license": "{{LICENSE}}",
+  "description": "Dutch word of the day module for MagicMirror",
+  "main": "mmm-wordoftheday.js",
+  "author": "Emal Gholzad",
+  "license": "MIT",
   "devDependencies": {
     "grunt": "latest",
     "grunt-eslint": "latest",
